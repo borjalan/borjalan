@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as node full-stack developer<br>🧑‍🤝‍🧑 Looking to learn and collaborate on open source projects on spare time<br>🌱 Learning OpenGL<br>⚡️ More of a recreational than professional profile here on GitHub
+🔭 Currently working as node full-stack developer<br>🧑‍🤝‍🧑 Looking to learn and collaborate on open source projects on spare time<br>🌱 Learning OpenGL<br>⚡️ More of a recreational than professional profile here on GitHub (Outdated) I don't upload my projects
 
 
 # 💻 Tech Stack:
